@@ -11,8 +11,8 @@ from save_results import *
 
 
 variant = dict(
-    data_directory=r'..\dataset\MobileCentury_data_final_ver3\NB_22-25postmile_10-12time',
-    output_directory=r'..\dataset\MobileCentury_data_final_ver3\NB_22-25postmile_10-12time\outputs',
+    data_directory=r'data\MobileCentury',
+    output_directory=r'data\MobileCentury\outputs',
 
 
     space_start=0,  # meter
